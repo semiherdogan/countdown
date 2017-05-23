@@ -29,6 +29,6 @@ var opts = {
 	'callback': function() {}
 };
 
-new CountDown( remaining_time_in_seconds, opts );
+new CountDown( 10*60, opts );
 
 ```
